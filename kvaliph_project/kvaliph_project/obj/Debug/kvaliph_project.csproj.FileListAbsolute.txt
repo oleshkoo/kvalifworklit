@@ -1,0 +1,13 @@
+C:\Users\Tayson\Documents\Visual Studio 2015\Projects\kvaliph_project\kvaliph_project\bin\Debug\kvaliph_project.exe.config
+C:\Users\Tayson\Documents\Visual Studio 2015\Projects\kvaliph_project\kvaliph_project\bin\Debug\kvaliph_project.exe
+C:\Users\Tayson\Documents\Visual Studio 2015\Projects\kvaliph_project\kvaliph_project\bin\Debug\kvaliph_project.pdb
+C:\Users\Tayson\Documents\Visual Studio 2015\Projects\kvaliph_project\kvaliph_project\obj\Debug\kvaliph_project.csprojResolveAssemblyReference.cache
+C:\Users\Tayson\Documents\Visual Studio 2015\Projects\kvaliph_project\kvaliph_project\obj\Debug\kvaliph_project.Form1.resources
+C:\Users\Tayson\Documents\Visual Studio 2015\Projects\kvaliph_project\kvaliph_project\obj\Debug\kvaliph_project.Properties.Resources.resources
+C:\Users\Tayson\Documents\Visual Studio 2015\Projects\kvaliph_project\kvaliph_project\obj\Debug\kvaliph_project.csproj.GenerateResource.Cache
+C:\Users\Tayson\Documents\Visual Studio 2015\Projects\kvaliph_project\kvaliph_project\obj\Debug\kvaliph_project.exe
+C:\Users\Tayson\Documents\Visual Studio 2015\Projects\kvaliph_project\kvaliph_project\obj\Debug\kvaliph_project.pdb
+C:\Users\Tayson\Documents\Visual Studio 2015\Projects\kvaliph_project\kvaliph_project\obj\Debug\kvaliph_project.frmMenu.resources
+C:\Users\Tayson\Documents\Visual Studio 2015\Projects\kvaliph_project\kvaliph_project\obj\Debug\kvaliph_project.frmTheory.resources
+C:\Users\Tayson\Documents\Visual Studio 2015\Projects\kvaliph_project\kvaliph_project\obj\Debug\kvaliph_project.frmPractic.resources
+C:\Users\Tayson\Documents\Visual Studio 2015\Projects\kvaliph_project\kvaliph_project\obj\Debug\kvaliph_project.Graphic.resources
